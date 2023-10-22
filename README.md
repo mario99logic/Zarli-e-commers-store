@@ -5,7 +5,6 @@ Zarli is a distinctive online platform tailored for businesses aiming to provide
 ## Technical Details
 
 ### Java Implementation
-- **Java Version**: (Replace with your specific version, e.g., Java 11)
 - **Development Environment**: Developed using Eclipse IDE.
 - **Frontend**: Scene Builder was employed to design an intuitive and user-friendly frontend interface.
 
